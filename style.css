@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0b0b0b;
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 80px 20px;
+    background: linear-gradient(black, #1a1a1a);
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 25px;
+    background: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.services {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.card {
+    background: #1a1a1a;
+    padding: 20px;
+    margin: 15px auto;
+    max-width: 300px;
+    border-radius: 10px;
+}
+
+.about, .contact {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: black;
+}
