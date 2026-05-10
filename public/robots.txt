@@ -1,7 +1,2 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
 User-agent: *
 Allow: /
-
-Sitemap: https://experienced-triangular-goshawk-h5r6ui.teleporthq.site/sitemap.xml
