@@ -1,0 +1,76 @@
+.navigation-wrapper {
+  display: contents;
+}
+ 
+.navigation-container1 {
+  display: contents;
+}
+ 
+.navigation-container2 {
+  display: none;
+}
+ 
+.navigation-container3 {
+  display: contents;
+}
+ 
+.navigation-container4 {
+  display: none;
+}
+ 
+.navigation-container5 {
+  display: contents;
+}
+
+.footer-wrapper {
+  display: contents;
+}
+ 
+.footer-container1 {
+  display: contents;
+}
+ 
+.footer-container2 {
+  display: none;
+}
+ 
+.footer-container3 {
+  display: contents;
+}
+
+.faq-policies-container1 {
+  width: 100%;
+  min-height: 100vh;
+}
+ 
+.faq-policies-container2 {
+  display: none;
+}
+ 
+.faq-policies-container3 {
+  display: contents;
+}
+ 
+.faq-policies-thq-hero-title-elm {
+  color: #ffffff;
+}
+ 
+.faq-policies-thq-hero-subtitle-elm {
+  color: #ffffff;
+}
+ 
+.faq-policies-container4 {
+  display: none;
+}
+ 
+.faq-policies-container5 {
+  display: contents;
+}
+ 
+.faq-policies-container6 {
+  display: none;
+}
+ 
+.faq-policies-container7 {
+  display: contents;
+}
