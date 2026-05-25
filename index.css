@@ -58,3 +58,13 @@
 .home-container5 {
   display: contents;
 }
+/* FOOTER LOGO FIX */
+.footer-logo-wrapper img.footer-logo-image {
+  width: 50px !important;
+  height: 50px !important;
+  max-width: 50px !important;
+  max-height: 50px !important;
+  object-fit: contain !important;
+  display: block !important;
+  flex: 0 0 50px !important;
+}
