@@ -170,3 +170,14 @@
     align-items: flex-start;
   }
 }
+.footer-logo-image{
+  height:50px;
+  width:auto;
+  object-fit:contain;
+}
+
+.footer-logo-wrapper{
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
